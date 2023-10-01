@@ -1,10 +1,10 @@
 ### Hi 🤓
 
-I'm
-• a Music Infomation Science student studying at unimi.it
-• a musician. I play the guitar and all kinds of stringed instruments, synthesizers and produce.
-• a fast and creative problem solver since I was 3.
-• incredibly calm... if I'm not dancing.
+I'm  
+• a Music Infomation Science student studying at unimi.it  
+• a musician. I play the guitar and all kinds of stringed instruments, synthesizers and produce.  
+• a fast and creative problem solver since I was 3.  
+• incredibly calm... if I'm not dancing.  
 
 <!--
 **donmezderin/donmezderin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
