@@ -1,4 +1,4 @@
-### Hi 🦭
+### Hi 🤓
 
 I'm
 • a Music Infomation Science student studying at unimi.it
